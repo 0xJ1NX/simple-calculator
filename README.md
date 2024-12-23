@@ -3,7 +3,6 @@ This is a simple calculator web app that can perform basic arithmetic operations
 
 > [!NOTE]
 > (Currenly only addition, subtraction).
-> i will update it as soon as possible, if you find any issue please open an issue or contact me.
 
 <p align="center">
     <a href="https://github.com/0xJ1NX">
