@@ -1,6 +1,8 @@
 # Calculater Web App
 This is a simple calculator web app that can perform basic arithmetic operations.
 
+` this is an Assignment for the GazaSkyGeeks React Course `
+
 > [!NOTE]
 > (Currenly only addition, subtraction).
 
