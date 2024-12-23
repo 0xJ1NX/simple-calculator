@@ -17,3 +17,8 @@ This is a simple calculator web app that can perform basic arithmetic operations
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"  height="27"  alt=""/>
     </a>
 </p>
+
+
+## Screenshot
+![Screenshot](./public/image.png)
+
